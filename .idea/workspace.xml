@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ca11b42-8381-4344-b758-bbe87702154b" name="Default Changelist" comment="" />
+    <list default="true" id="4ca11b42-8381-4344-b758-bbe87702154b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +144,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1nEpvClOAMoXMW5nq9iI9xKwImk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -183,6 +186,8 @@
       <workItem from="1611034908748" duration="4744000" />
       <workItem from="1611134945490" duration="1299000" />
       <workItem from="1611211257844" duration="3615000" />
+      <workItem from="1611377884469" duration="16000" />
+      <workItem from="1611753568816" duration="208000" />
     </task>
     <servers />
   </component>
